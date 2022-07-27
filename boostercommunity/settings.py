@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-j=mvcra48j(l0of($0ib_ot3%lkmp!e@np(jlr_yqva)wk_vfh
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['communitybooster.herokuapp.com']
 
 
 # Application definition
